@@ -6,5 +6,6 @@ script to show hidden files
 script to list long format,UID and GID .
 script to create directory in tmp
 script to move files
+script to delete  files
 
 
