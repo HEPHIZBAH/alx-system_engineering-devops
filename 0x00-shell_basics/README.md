@@ -8,5 +8,6 @@ script to create directory in tmp
 script to move files
 script to delete  files
 script to remove directory
+script to  go back to previous directory
 
 
