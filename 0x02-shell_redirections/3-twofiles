@@ -1,2 +1,2 @@
 #!/bin/bash
-cat compile_list
+cat /etc/passwd /etc/hosts
